@@ -1,4 +1,5 @@
 <?php
+function php_mysql(){
 $servername = "localhost";
 $username = "root";
 $password = "mysql";
@@ -37,4 +38,6 @@ if (mysqli_query($conn, $sql)) {
 }
 
 mysqli_close($conn);
+}
+
 ?>
