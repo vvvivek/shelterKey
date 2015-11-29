@@ -1,30 +1,7 @@
 <?php include 'header.php'; ?>
-<style type="text/css">
-        #photo {
-            height: 200px;
-            width: 300px;
-        }
-        
-        .ui-body {
-            font-family: fantasy;
-        }
-        
-        #flink {
-            margin-left: 40px;
-        }
-    </style>
-    <script>
-        $("#start-btn").click(function () {
-
-            $("b-contain").show();
-
-        });
-    </script>
+<script src="../js/script.js"></script>
 <body class="ui-body">
-    <!--- Nav Starts Here        -->
 <?php include 'nav.php'; ?>
-    <!--- Nav Ends Here        -->
-    <!--- Jumbotrain Starts Here        -->
     <div class="container-fluid">
         <div class="jumbotron" style="margin-left:40px;">
             <h1>Best Flat, PG &amp; Vacation Rentals</h1>
@@ -32,8 +9,6 @@
             <a class="btn btn-primary btn-lg" id="start-btn">Start Now!</a>
         </div>
     </div>
-    <!--- Jumbotrain Ends Here        -->
-    <!--- Containts Starts Here        -->
     <div class="container" id="b-contain">
         <div class="row">
             <div class="col-md-3" style="  margin-bottom:10px; ">
@@ -110,9 +85,7 @@
             </div>
         </div>
     </div>
-    <!-- Footer Starts from here-->
 <?php include 'footer.php';?>
-    <!--- Footer Ends Here-->
 </body>
 
 </html>

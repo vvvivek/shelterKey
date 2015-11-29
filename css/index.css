@@ -42,7 +42,18 @@ body{
     margin-left: 30px;
 }
 
+#photo {
+    height: 200px;
+    width: 300px;
+}
 
+.ui-body {
+    font-family: fantasy;
+}
+
+#flink {
+    margin-left: 40px;
+}
 
 
 
