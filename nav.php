@@ -1,4 +1,4 @@
-         <!--- Nav Starts Here        -->
+
     <nav class="navbar-wrapper navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
@@ -8,11 +8,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">ShelterKey</a>
+                <a class="navbar-brand" href="main.php">ShelterKey</a>
             </div>
             <div class="collapse navbar-collapse" id=".navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a>
+                    <li class="active"><a href="main.php"><span class="glyphicon glyphicon-home"></span> Home</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span> About Us<b class="caret"></b></a>
@@ -23,7 +23,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="download_agreement_format.php"><span class="glyphicon glyphicon-download-alt"></span> Download Agrrement</a>
+                    <li><a href="agrrement.php"><span class="glyphicon glyphicon-download-alt"></span> Download Agrrement</a>
                     </li>
                     <li><a href="maps.php"><span class="glyphicon glyphicon-globe"></span> Maps</a>
                     </li>
@@ -31,4 +31,3 @@
             </div>
         </div>
     </nav>
-    <!--- Nav Ends Here        -->
