@@ -24,8 +24,8 @@
                 </a>
                 <h3 class="text-center">Rental Flat</h3>
                 <div id="flink">
-                    <a href="../shelterKey/Ground/rental_flats1.php" class="btn btn-danger">You want it</a>
-                    <a href="../shelterKey/Ground/rental_flats2.php" class="btn btn-danger">You have it</a>
+                    <a href="ground/rental_flats1.php" class="btn btn-danger">You want it</a>
+                    <a href="ground/rental_flats2.php" class="btn btn-danger">You have it</a>
                 </div>
 
             </div>
@@ -34,16 +34,16 @@
                 </a>
                 <h3 class="text-center">Flatmate</h3>
                 <div id="flink">
-                    <a href="../shelterKey/Ground/flatmates1.php" class="btn btn-info">You want it</a>
-                    <a href="../shelterKey/Ground/flatmates2.php" class="btn btn-info">You have it</a></div>
+                    <a href="../shelterKey/ground/flatmates1.php" class="btn btn-info">You want it</a>
+                    <a href="../shelterKey/ground/flatmates2.php" class="btn btn-info">You have it</a></div>
             </div>
             <div class="col-md-3">
                 <a href="#"><img class="img-responsive img-circle" id="photo" src="images/4_PG_Accommodation/PG.jpg">
                 </a>
                 <h3 class="text-center">Paying Guest</h3>
                 <div id="flink">
-                    <a href="../shelterKey/Ground/paying_guests1.php" class="btn btn-info">You want it</a>
-                    <a href="../shelterKey/Ground/paying_guests2.php" class="btn btn-info">You have it</a></div>
+                    <a href="../shelterKey/ground/paying_guests1.php" class="btn btn-info">You want it</a>
+                    <a href="../shelterKey/ground/paying_guests2.php" class="btn btn-info">You have it</a></div>
             </div>
         </div>
         <div class="row">
@@ -52,8 +52,8 @@
                 </a>
                 <h3 class="text-center">Studio Apartment</h3>
                 <div id="flink">
-                    <a href="../shelterKey/Ground/studio_apartment1.php" class="btn btn-success">You want it</a>
-                    <a href="../shelterKey/Ground/studio_apartment2.php" class="btn btn-success">You have it</a>
+                    <a href="../shelterKey/ground/studio_apartment1.php" class="btn btn-success">You want it</a>
+                    <a href="../shelterKey/ground/studio_apartment2.php" class="btn btn-success">You have it</a>
                 </div>
             </div>
             <div class="col-md-3">
@@ -61,8 +61,8 @@
                 </a>
                 <h3 class="text-center">Service Apartment</h3>
                 <div id="flink">
-                    <a href="../shelterKey/Ground/service_apartment1.php" class="btn btn-danger">You want it</a>
-                    <a href="../shelterKey/Ground/service_apartment2.php" class="btn btn-danger">You have it</a>
+                    <a href="../shelterKey/ground/service_apartment1.php" class="btn btn-danger">You want it</a>
+                    <a href="../shelterKey/ground/service_apartment2.php" class="btn btn-danger">You have it</a>
                 </div>
             </div>
             <div class="col-md-3">
@@ -70,8 +70,8 @@
                 </a>
                 <h3 class="text-center">Holiday Apartment</h3>
                 <div id="flink">
-                    <a href="../shelterKey/Ground/holiday_apartment1.php" class="btn btn-info">You want it</a>
-                    <a href="../shelterKey/Ground/holiday_apartment2.php" class="btn btn-info">You have it</a>
+                    <a href="../shelterKey/ground/holiday_apartment1.php" class="btn btn-info">You want it</a>
+                    <a href="../shelterKey/ground/holiday_apartment2.php" class="btn btn-info">You have it</a>
                 </div>
             </div>
             <div class="col-md-3">
@@ -79,8 +79,8 @@
                 </a>
                 <h3 class="text-center">Condo</h3>
                 <div id="flink">
-                    <a href="../shelterKey/Ground/condoimimium1.php" class="btn btn-info">You want it</a>
-                    <a href="../shelterKey/Ground/condoimimium2.php" class="btn btn-info">You have it</a>
+                    <a href="../shelterKey/ground/condoimimium1.php" class="btn btn-info">You want it</a>
+                    <a href="../shelterKey/ground/condoimimium2.php" class="btn btn-info">You have it</a>
                 </div>
             </div>
         </div>
